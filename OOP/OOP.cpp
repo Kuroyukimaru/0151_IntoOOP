@@ -15,9 +15,10 @@ public: // akses modifier
 };
 
 class Matakuliah {
-private:
+    private:
     string kodeMk;
     string namaMk;
     int sks;
 
+    public:
 };
